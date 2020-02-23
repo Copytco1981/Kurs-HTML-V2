@@ -1,6 +1,8 @@
 body {
     background-color: #303030;
     color: #ffffff;
+    font-family: 'Lato';
+    font-size: 20px;
 }
 
 #container {
@@ -16,5 +18,26 @@ body {
 
 .square {
     width: 50%;
+    float: left;
+}
+
+#logo {
+    float: left;
+    font-family: 'Josefin Sans';
+    font-size: 70px;
+    width: 600px;
+}
+
+#zegar {
+    float: left;
+    font-family: 'Josefin Sans';
+    font-size: 70px;
+}
+
+.tile1 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
     float: left;
 }
